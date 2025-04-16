@@ -38,7 +38,7 @@ text-underline-offset: 4px;
 }
 
 .header_address {
-font-family: Raleway;
+font-family: "Raleway";
 justify-self: end;
 max-width: 240px;
 font-size: 18px;
@@ -150,7 +150,6 @@ margin-top: 16px;
 }
 
 .cover_description_button {
-  border: none;
   line-height: 100%;
   color: white;
   z-index: 2;
@@ -315,7 +314,7 @@ margin-top: 16px;
 .about_text {
   font-family: "Raleway"; 
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 400px;
   line-height: 24px;
 }
 
@@ -350,7 +349,6 @@ margin-top: 16px;
 .footer_menu_list {
   display: flex;
   flex-direction: column;
-  list-style: circle;
   color: #000000;
   list-style: none;
   margin-top: -12px;
